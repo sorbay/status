@@ -22,5 +22,9 @@
     --submit-button-background-color: #ffffff;
     --submit-button-color: #3C3BE6;
     --graph-opacity: 1;
-    --graph-filter: none;
+    --graph-filter: hue-rotate(70deg);
   }
+
+  .chartjs-render-monitor {
+    filter: hue-rotate(70deg);
+}
