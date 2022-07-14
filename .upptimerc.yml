@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/sorbay/status/master/static/img/sorbay-logo.png
+  logoUrl: https://raw.githubusercontent.com/sorbay/status/master/assets/sorbay-logo.png
   name: Sorbay
   introTitle: "**sorbay** - the key to global cloud security"
   introMessage: ""
