@@ -2,7 +2,7 @@
   {
     "name": "Website",
     "url": "https://www.sorbay.com",
-    "icon": "https://favicons.githubusercontent.com/www.sorbay.com",
+    "icon": "https://sorbay.com/favicon-32x32.png",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1282,
-    "timeDay": 1282,
-    "timeWeek": 1282,
-    "timeMonth": 1282,
-    "timeYear": 1282,
+    "time": 1355,
+    "timeDay": 1355,
+    "timeWeek": 1355,
+    "timeMonth": 1355,
+    "timeYear": 1355,
     "dailyMinutesDown": {}
   }
 ]
