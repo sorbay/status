@@ -1,7 +1,8 @@
 # Change these first
 owner: sorbay # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-
+assignees:
+  - funkluk
 sites:
   - name: Website
     url: https://www.sorbay.com
@@ -13,7 +14,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/sorbay/status/master/assets/sorbay-logo.png
-  theme: light
+  themeUrl: https://raw.githubusercontent.com/sorbay/status/master/assets/sorbay-theme.css
   favicon: https://raw.githubusercontent.com/sorbay/status/master/assets/favicon-32x32.png
   name: ""
   introTitle: "the key to global cloud security"
