@@ -13,6 +13,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/sorbay/status/master/assets/sorbay-logo.png
+  theme: ocean
   favicon: https://raw.githubusercontent.com/sorbay/status/master/assets/favicon-32x32.png
   name: ""
   introTitle: "the key to global cloud security"
