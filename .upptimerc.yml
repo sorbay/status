@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://cdn.statically.io/gh/sorbay/status/assets/sorbay-logo.png
+  logoUrl: https://cdn.statically.io/gh/sorbay/status/master/assets/sorbay-logo.png
   themeUrl: https://cdn.statically.io/gh/sorbay/status/master/assets/sorbay-theme.css
   favicon: https://cdn.statically.io/gh/sorbay/status/master/assets/favicon-32x32.png
   name: ""
