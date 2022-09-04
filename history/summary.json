@@ -6,15 +6,15 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1581,
-    "timeDay": 1545,
-    "timeWeek": 1588,
-    "timeMonth": 1568,
-    "timeYear": 1581,
+    "time": 1588,
+    "timeDay": 2004,
+    "timeWeek": 1630,
+    "timeMonth": 1571,
+    "timeYear": 1588,
     "dailyMinutesDown": {
       "2022-09-02": 17
     }
