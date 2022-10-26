@@ -5,22 +5,20 @@
     "icon": "https://sorbay.com/favicon-32x32.png",
     "slug": "website",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "98.75%",
-    "time": 1715,
-    "timeDay": 1222,
-    "timeWeek": 1511,
-    "timeMonth": 1884,
-    "timeYear": 1715,
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "99.10%",
+    "time": 1711,
+    "timeDay": 1175,
+    "timeWeek": 1464,
+    "timeMonth": 1879,
+    "timeYear": 1711,
     "dailyMinutesDown": {
-      "2022-10-03": 491,
       "2022-10-02": 62,
       "2022-09-30": 783,
-      "2022-09-29": 493,
-      "2022-09-02": 17
+      "2022-09-29": 493
     }
   }
 ]
