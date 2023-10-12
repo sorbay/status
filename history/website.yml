@@ -1,7 +1,7 @@
 url: https://www.sorbay.com
-status: down
-code: 500
-responseTime: 10525
-lastUpdated: 2023-10-12T19:56:53.440Z
+status: up
+code: 200
+responseTime: 4472
+lastUpdated: 2023-10-12T20:03:01.195Z
 startTime: 2022-07-14T07:14:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
