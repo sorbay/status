@@ -4,7 +4,7 @@
     "url": "https://www.sorbay.com",
     "icon": "https://sorbay.com/favicon-32x32.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "77.14%",
@@ -16,6 +16,7 @@
     "timeMonth": 7514,
     "timeYear": 4946,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2024-01-27": 601,
       "2024-01-26": 1440,
       "2024-01-25": 263,
