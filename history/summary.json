@@ -6,17 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "94.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "98.21%",
-    "time": 4971,
-    "timeDay": 3345,
-    "timeWeek": 4972,
-    "timeMonth": 7423,
-    "timeYear": 4917,
+    "time": 4970,
+    "timeDay": 3247,
+    "timeWeek": 4963,
+    "timeMonth": 7429,
+    "timeYear": 4916,
     "dailyMinutesDown": {
-      "2024-02-06": 6,
       "2024-01-27": 601,
       "2024-01-26": 1440,
       "2024-01-25": 263,
@@ -37,8 +36,7 @@
       "2023-05-06": 32,
       "2023-04-21": 24,
       "2023-03-23": 32,
-      "2023-02-09": 104,
-      "2023-02-07": 16
+      "2023-02-09": 104
     }
   }
 ]
